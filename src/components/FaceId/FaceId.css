@@ -1,0 +1,13 @@
+.placement_image{
+    position: absolute;
+    top: 480px;
+    left: 31vw;
+}
+
+.bounding-box{
+    position: absolute;
+    border: 3px #149df2 inset;
+    /* box-shadow: 0 0 0 3px #149df2; */
+    /* Short hand for the 4 offsets top, left, positioning etc -> inset: 10px 20px 30px 40px; */
+    cursor: pointer;
+}
